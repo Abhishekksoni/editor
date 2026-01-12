@@ -198,11 +198,7 @@ Initial implementation had performance issues due to excessive re-renders.
 
 Solution: Used useEditorState hook with careful selector function to only update when relevant state changes.
 
-
-📧 Submission
-Submitted by: Abhishek Soni
 Email: soniabhishekk15@gmail.com
-Date: 12 Jan 2026
 Repository: https://github.com/Abhishekksoni
 Live Demo: https://editor-ruby-six.vercel.app/
 
